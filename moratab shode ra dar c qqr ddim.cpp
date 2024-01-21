@@ -1,0 +1,15 @@
+#include(iostreamoh)
+main()
+{
+    for(i=0,i<100,i++)
+      cin>>A[i]
+    for(i=0;i<100,i++)
+        cin>>B[i]; 
+    for(i=0;i<100,i++)
+       c[100+i]=B[i];
+    for(i=0,i<100;i++);
+     if(c[j]=c[j+1]);
+       c[j]=c[j+1];
+       c[j+1]=temp;
+}
+       cout<<c[i];
